@@ -1,0 +1,72 @@
+# Ignore Visual Studio user-specific and temporary files
+.vscode/
+*.code-workspace
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sdf
+*.vcxproj.user
+*.VC.db
+
+# Ignore build and binary files
+Debug/
+Release/
+x64/
+x86/
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.dll
+*.exe
+*.log
+*.pch
+*.ipch
+*.o
+*.tlog/
+*.lastbuildstate
+*.idb
+
+# Ignore OpenGL libraries (if dynamically linked)
+*.lib
+*.dll
+*.pdb
+*.exp
+
+# Ignore generated CMake and build files
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Testing/
+Makefile
+cmake_install.cmake
+
+# Ignore dependency manager files (if using vcpkg)
+vcpkg_installed/
+vcpkg/
+.vcpkg-root
+CMakePresets.json
+CMakeUserPresets.json
+
+# Ignore IDE workspace files
+*.opensdf
+*.VC.opendb
+
+# Ignore generated project files
+*.ncb
+*.aps
+*.sln.docstates
+*.filters
+*.ipch
+
+# Ignore compiled shader files
+*.spv
+*.glsl.bin
+*.hlsl.bin
+
+# Ignore generated log files
+*.log
+*.dmp
