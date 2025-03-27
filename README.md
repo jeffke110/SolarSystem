@@ -19,8 +19,6 @@ This project is a Solar System simulation built using C++ and OpenGL in Visual S
 📚 SolarSystemProject  
 │\── 📂 include/        # Header files  
 │\── 📂 src/            # Source code (.cpp files)  
-│\── 📂 shaders/        # Vertex and fragment shaders  
-│\── 📂 assets/         # Planet textures  
 │\── 📂 dependencies/   # External libraries (GLFW, GLAD, GLM)  
 │\── SolarSystem.sln    # Visual Studio solution file  
 │\── .gitignore         # Ignore unnecessary files  
@@ -40,8 +38,8 @@ GLM – Math library for 3D transformations
 
 2. Clone the Repository
 
-git clone https://github.com/your-username/SolarSystemProject.git
-cd SolarSystemProject
+git clone https://github.com/jeffke110/SolarSystem.git
+cd SolarSystem
 
 3. Set Up Visual Studio 2022
 
