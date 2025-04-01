@@ -9,6 +9,7 @@
 #include <numbers>
 #include <iostream>
 
+
 class Sphere {
 
 private:
@@ -16,6 +17,7 @@ private:
     const int LATITUDE_DIVISIONS = 40;
     const int LONGITUDE_DIVISIONS = 40;
     const float RADIUS = 1.0f;
+    unsigned int textureID;
 	unsigned int VAO, VBO, EBO;
 	std::vector<float> vertices;
 	std::vector<unsigned int> indices;

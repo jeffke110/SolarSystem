@@ -144,14 +144,21 @@
     <ClInclude Include="Texture.h" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="lighting_shader.fs" />
+    <None Include="lighting_shader.vs" />
     <None Include="shader.fs" />
     <None Include="shader.vs" />
   </ItemGroup>
   <ItemGroup>
-    <Image Include="awesomeface.png" />
-    <Image Include="container.jpg" />
+    <Image Include="earth.jpg" />
+    <Image Include="jupiter.jpg" />
+    <Image Include="mars.jpg" />
     <Image Include="mercury.jpg" />
+    <Image Include="neptune.jpg" />
+    <Image Include="saturn.jpg" />
     <Image Include="sun.jpg" />
+    <Image Include="uranus.jpg" />
+    <Image Include="venus.jpg" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
