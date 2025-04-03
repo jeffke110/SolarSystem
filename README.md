@@ -56,12 +56,12 @@ Press Ctrl + Shift + B to build the project.
 
 Press F5 to run the simulation.
 
-🎮 Controls
-Key / Input	Action
-W / S	Move camera forward / back
-A / D	Move camera left / right
-Scroll	Zoom in / out
-Esc	Exit the program
+🎮 Controls <br>
+Key / Input	Action <br>
+W / S	Move camera forward / back <br>
+A / D	Move camera left / right <br>
+Scroll	Zoom in / out <br>
+Esc	Exit the program <br>
 
 
 🐜 License
