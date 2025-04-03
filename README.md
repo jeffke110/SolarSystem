@@ -1,12 +1,11 @@
 🌌 C++ OpenGL Solar System
-
-This project is a Solar System simulation built using C++ and OpenGL in Visual Studio 2022. It features rotating planets, orbit mechanics, and realistic lighting effects.
+![Solar System Simulation](SolarSystemCapture.PNG)
+This project is a Solar System simulation built using C++ and OpenGL in Visual Studio 2022. 
+This project is part of my journey learning OpenGL. It's a way to apply and demonstrate what I've learned so far, and I'm excited to keep building and expanding as I continue exploring graphics programming.
 
 🚀 Features
 
 🌍 Realistic planetary orbits with rotation and revolution
-
-☀️ Sun as a light source with Phong shading
 
 🛠️ Camera controls for free movement and zooming
 
@@ -35,6 +34,8 @@ GLFW – Window and input handling
 GLAD – OpenGL function loader
 
 GLM – Math library for 3D transformations
+
+IMGUI - Graphical user interface library fo
 
 2. Clone the Repository
 
