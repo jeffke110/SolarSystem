@@ -1,5 +1,5 @@
 🌌 C++ OpenGL Solar System
-![Solar System Simulation](SolarSystemCapture.PNG)
+![Solar System Simulation](SolarSystemCapture.PNG) <br>
 This project is a Solar System simulation built using C++ and OpenGL in Visual Studio 2022. 
 This project is part of my journey learning OpenGL. It's a way to apply and demonstrate what I've learned so far, and I'm excited to keep building and expanding as I continue exploring graphics programming.
 
